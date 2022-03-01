@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 -->
 
-- 📫 How to reach me: [ <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1638418065~hmac=08089cb109a6a0b06f5418bc6803a388" width="20"> ](https://www.linkedin.com/in/kevnramos/), [ <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="drawing" width="20"/> ](mailto:kevdramos1121@gmail.com)
+- 📫 How to reach me: [ <img src="./linkedin.png" width="20"> ](https://www.linkedin.com/in/kevnramos/), [ <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="drawing" width="20"/> ](mailto:kevdramos1121@gmail.com)
 
 
 
