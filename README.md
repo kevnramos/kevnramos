@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 
 
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevnramos&show_icons=true&hide_border=true&theme=tokyonight)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kevnramos&theme=nord&show_icons=true">
+    <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
+</p>
